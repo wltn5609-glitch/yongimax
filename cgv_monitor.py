@@ -91,6 +91,13 @@ def save_state(state):
 
 
 def main():
+    # state.json이 아예 없던 '맨 첫 실행'인지 미리 기록해둠.
+    # 첫 실행이면 지금 이미 열려있는 날짜들은 '새로 열렸다'가 아니라
+    # 그냥 '원래 상태'로만 기록하고, 알림은 보내지 않음 (알림 폭탄 방지).
+    is_first_run = not os.path.exists(STATE_FILE)
+    if is_first_run:
+        print("[안내] 첫 실행이라 지금 상태만 기록하고 알림은 보내지 않아요.")
+
     state = load_state()
     today = datetime.now()
 
@@ -109,7 +116,7 @@ def main():
         was_open = state.get(ymd, {}).get("open", False)
         is_open = len(items) > 0
 
-        if is_open and not was_open:
+        if is_open and not was_open and not is_first_run:
             times = ", ".join(sorted(it.get("scnsrtTm", "") for it in items))
             date_label = f"{d.month}/{d.day}({'월화수목금토일'[d.weekday()]})"
             send_ntfy(
