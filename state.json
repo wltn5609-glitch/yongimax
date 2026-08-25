@@ -60,108 +60,108 @@
     "checked_at": "2026-08-24T23:53:06"
   },
   "20260825": {
-    "open": false,
-    "session_count": 0,
-    "checked_at": "2026-08-25T20:58:51"
+    "open": true,
+    "session_count": 6,
+    "checked_at": "2026-08-25T21:57:41"
   },
   "20260826": {
     "open": true,
     "session_count": 6,
-    "checked_at": "2026-08-25T20:58:52"
+    "checked_at": "2026-08-25T21:57:41"
   },
   "20260827": {
     "open": true,
     "session_count": 6,
-    "checked_at": "2026-08-25T20:58:53"
+    "checked_at": "2026-08-25T21:57:42"
   },
   "20260828": {
     "open": true,
     "session_count": 6,
-    "checked_at": "2026-08-25T20:58:53"
+    "checked_at": "2026-08-25T21:57:43"
   },
   "20260829": {
     "open": true,
     "session_count": 6,
-    "checked_at": "2026-08-25T20:58:54"
+    "checked_at": "2026-08-25T21:57:43"
   },
   "20260830": {
     "open": true,
     "session_count": 6,
-    "checked_at": "2026-08-25T20:58:54"
+    "checked_at": "2026-08-25T21:57:44"
   },
   "20260831": {
     "open": true,
     "session_count": 6,
-    "checked_at": "2026-08-25T20:58:55"
+    "checked_at": "2026-08-25T21:57:45"
   },
   "20260901": {
     "open": true,
     "session_count": 6,
-    "checked_at": "2026-08-25T20:58:55"
+    "checked_at": "2026-08-25T21:57:45"
   },
   "20260902": {
     "open": false,
     "session_count": 0,
-    "checked_at": "2026-08-25T20:58:55"
+    "checked_at": "2026-08-25T21:57:46"
   },
   "20260903": {
     "open": false,
     "session_count": 0,
-    "checked_at": "2026-08-25T20:58:56"
+    "checked_at": "2026-08-25T21:57:47"
   },
   "20260904": {
     "open": false,
     "session_count": 0,
-    "checked_at": "2026-08-25T20:58:56"
+    "checked_at": "2026-08-25T21:57:47"
   },
   "20260905": {
     "open": false,
     "session_count": 0,
-    "checked_at": "2026-08-25T20:58:56"
+    "checked_at": "2026-08-25T21:57:47"
   },
   "20260906": {
     "open": false,
     "session_count": 0,
-    "checked_at": "2026-08-25T20:58:56"
+    "checked_at": "2026-08-25T21:57:48"
   },
   "20260907": {
     "open": false,
     "session_count": 0,
-    "checked_at": "2026-08-25T20:58:57"
+    "checked_at": "2026-08-25T21:57:48"
   },
   "20260908": {
     "open": false,
     "session_count": 0,
-    "checked_at": "2026-08-25T20:58:57"
+    "checked_at": "2026-08-25T21:57:49"
   },
   "20260909": {
     "open": false,
     "session_count": 0,
-    "checked_at": "2026-08-25T20:58:57"
+    "checked_at": "2026-08-25T21:57:49"
   },
   "20260910": {
     "open": false,
     "session_count": 0,
-    "checked_at": "2026-08-25T20:58:57"
+    "checked_at": "2026-08-25T21:57:49"
   },
   "20260911": {
     "open": false,
     "session_count": 0,
-    "checked_at": "2026-08-25T20:58:58"
+    "checked_at": "2026-08-25T21:57:50"
   },
   "20260912": {
     "open": false,
     "session_count": 0,
-    "checked_at": "2026-08-25T20:58:58"
+    "checked_at": "2026-08-25T21:57:50"
   },
   "20260913": {
     "open": false,
     "session_count": 0,
-    "checked_at": "2026-08-25T20:58:58"
+    "checked_at": "2026-08-25T21:57:50"
   },
   "20260914": {
     "open": false,
     "session_count": 0,
-    "checked_at": "2026-08-25T20:58:58"
+    "checked_at": "2026-08-25T21:57:51"
   }
 }
